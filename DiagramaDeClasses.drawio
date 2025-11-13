@@ -130,7 +130,7 @@
             <mxPoint x="94" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wPM97fzyyYocdvOaASka-55" value="1...*" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wPM97fzyyYocdvOaASka-55" value="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="78" y="607" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wPM97fzyyYocdvOaASka-56" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.504;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wPM97fzyyYocdvOaASka-44" target="wPM97fzyyYocdvOaASka-4" edge="1">
